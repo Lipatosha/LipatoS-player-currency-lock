@@ -2,7 +2,7 @@
   "id": "lipatos-player-currency-lock",
   "title": "LipatoS - Запрет изменения валюты",
   "description": "Запрещает обычным игрокам вручную изменять валюту D&D5e, не меняя внешний вид полей. Автоматическое получение и передача валюты продолжают работать. ГМ и Assistant GM не ограничиваются.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -22,11 +22,11 @@
         "type": "system",
         "compatibility": {
           "minimum": "6.0.0",
-          "verified": "6.0.1"
+          "verified": "6.0.5"
         }
       }
     ]
   },
   "manifest": "https://raw.githubusercontent.com/Lipatosha/LipatoS-player-currency-lock/main/module.json",
-  "download": "https://raw.githubusercontent.com/Lipatosha/LipatoS-player-currency-lock/main/lipatos-player-currency-lock-v2.0.0.zip"
+  "download": "https://raw.githubusercontent.com/Lipatosha/LipatoS-player-currency-lock/main/lipatos-player-currency-lock-v2.0.1.zip"
 }
